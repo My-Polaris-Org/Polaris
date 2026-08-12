@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 
 /* ------------------------------------------------------------------ */
@@ -506,7 +507,6 @@ const LandingPage: React.FC = () => {
         }
 
         .pl-root {
-          font-family: 'Vazirmatn', 'IRANSans', 'Segoe UI', Tahoma, sans-serif;
           color: var(--text-dark);
           background: var(--bg-light);
           overflow-x: hidden;
