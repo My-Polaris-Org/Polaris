@@ -365,7 +365,7 @@ const IconSocial: React.FC<{ kind: "ig" | "tg" | "yt" | "tw" }> = ({
 const NAV_LINKS = [
   "خانه",
   "امکانات",
-  "فروش‌کداری",
+  "قیمت‌ گذاری",
   "منابع",
   "درباره",
   "تماس با ما",
@@ -1437,7 +1437,7 @@ const LandingPage: React.FC = () => {
         <div className="pl-container">
           <div className="pl-section-head" style={{ marginBottom: 40 }}>
             <h2 className="pl-section-title">
-              چرا مدرسه‌ها یولاریس را انتخاب می‌کنند؟
+              چرا مدرسه‌ها پولاریس را انتخاب می‌کنند؟
             </h2>
           </div>
           <div className="pl-whyus">
@@ -1475,10 +1475,10 @@ const LandingPage: React.FC = () => {
               <h5>تماس با ما</h5>
               <ul className="pl-footer-contact">
                 <li>
-                  <IconPhone /> ۰۹۱۲-۳۴۴۵۶۶۷
+                  <IconPhone /> ۰۹۱۲-۸۹۱۹۹۵۷
                 </li>
                 <li>
-                  <IconMail /> info@polaris.school
+                  <IconMail /> info@mypolaris.ir
                 </li>
                 <li>
                   <IconPin /> تهران، خیابان ولیعصر
