@@ -1520,6 +1520,19 @@ const LandingPage: React.FC = () => {
                 </a>
               </div>
             </div>
+            <a
+              referrerPolicy="origin"
+              target="_blank"
+              href="https://trustseal.enamad.ir/?id=774188&Code=X2Ejidbp9FkscH43g5MBFSpJ7ZaeBNAQ"
+            >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                referrerPolicy="origin"
+                src="https://trustseal.enamad.ir/logo.aspx?id=774188&Code=X2Ejidbp9FkscH43g5MBFSpJ7ZaeBNAQ"
+                alt=""
+                style={{ cursor: "pointer" }}
+              />
+            </a>
           </div>
           <div className="pl-footer-bottom">
             © ۱۴۰۵ Polaris. تمامی حقوق محفوظ است.
